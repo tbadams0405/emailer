@@ -1,0 +1,4 @@
+email_server=smtp.gmail.com
+sender_email=youremail@example.com
+sender_username=youremail
+sender_password=password
